@@ -15,6 +15,8 @@ export default function Header() {
       <Link href="/about" as={process.env.BACKEND_URL + '/about'}>
         <a>About</a>
       </Link>
+      <br />
+      Source: <a href="https://github.com/davemcg3/car-mx">This blog</a>
     </div>
   )
 }
