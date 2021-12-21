@@ -1,0 +1,3 @@
+Review:
+https://gregrickaby.com/blog/nextjs-github-pages
+https://nextjs.org/learn/basics/assets-metadata-css/styling-tips
